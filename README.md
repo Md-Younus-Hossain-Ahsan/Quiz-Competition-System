@@ -1,7 +1,7 @@
 # Quiz Competition System
 
 ## Short Description
-The project aims to develop a distributed database system for a "**Quiz Show**" environment, allowing hosts to pose questions and participants to answer. This system ensures efficient interaction between host, participants, and database, facilitating successful quiz show execution.
+The project aims to develop a distributed database system for a "Quiz Show" environment, allowing hosts to pose questions and participants to answer. This system ensures efficient interaction between the host, participants with a question-answering session, and database, facilitating successful quiz show execution.
 
 ## Overview
 Please watch this video: https://drive.google.com/file/d/1RVdYHqEcu3o_F23mIYzYRyTD3UNp4jfg/view?usp=sharing 
